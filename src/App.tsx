@@ -1,4 +1,4 @@
-import { Refine, WelcomePage } from "@refinedev/core";
+import { Refine} from "@refinedev/core";
 import { RefineKbar, RefineKbarProvider } from "@refinedev/kbar";
 
 import { RefineSnackbarProvider, notificationProvider } from "@refinedev/mui";
